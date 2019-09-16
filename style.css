@@ -14,8 +14,9 @@ p {
     font-size: 45px;
     line-height: 24px;
     margin: 0 0 24px;
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: center;
+    
+     
 }
 
 textarea {
@@ -57,7 +58,7 @@ input, textarea {
     
 }
 
-body {background-color:limegreen;
+body {background:linear-gradient(to right, lime,magenta);
 
 }
 
@@ -68,4 +69,6 @@ div ol{color: magenta;
 
 h3{color: brown;
 }
+
+
 
