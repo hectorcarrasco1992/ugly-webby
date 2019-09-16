@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(21, 228, 48);
+    color: rgb(228, 21, 135);
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 150px;
     font-weight: bold;
@@ -27,6 +27,7 @@ textarea {
 ul, ol {
     margin: 20px;
     padding: 0;
+    color: darkred;
 }
 
 li {
