@@ -44,12 +44,14 @@ form {
     width:190px;
     margin:auto;
     border:1px rgb(211, 11, 11) solid;
-    padding:10px; align-content: center
+    padding:10px; align-content: center;
+    display: ruby-base-container; color: pink;
 }
     
 input, textarea {
     padding:5px;
-    margin:5px
+    margin:5px;
+    
 }
 
 body {background-color:limegreen;
