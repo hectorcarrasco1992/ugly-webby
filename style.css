@@ -2,7 +2,7 @@ h1 {
     color: rgb(228, 21, 135);
     font-family: 'Helvetica Neue', sans-serif;
     font-size: 150px;
-    font-weight: bold;
+    font-weight: lighter;
     letter-spacing: 2px;
     line-height: 1;
     text-align: right;
@@ -20,8 +20,11 @@ p {
 
 textarea {
     margin: 20px;
-    width: 300px;
+    width: 100px;
     height: 150px;
+    color: aqua;
+    font: 'helvetica neue', sans-serif;
+    
 }
 
 ul, ol {
